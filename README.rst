@@ -107,7 +107,7 @@ first time::
 
     $ export WORKON_HOME=~/.virtualenvs/
     $ mkdir -p $WORKON_HOME
-    $ source /usr/bin/virtualenvwrapper.sh
+    $ source /usr/local/bin/virtualenvwrapper.sh
 
 You'll want to add ``source /usr/bin/virtualenvwrapper.sh`` to
 your ``.bashrc``.
